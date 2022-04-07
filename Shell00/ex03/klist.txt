@@ -1,0 +1,5 @@
+Credentials cache: API:EF83C353-F48D-4007-BD3B-C2239182F2A7
+        Principal: mtournay@S19.BE
+
+  Issued                Expires               Principal
+Mar  1 16:16:44 2021  Mar  2 02:16:37 2021  krbtgt/S19.BE@S19.BE
